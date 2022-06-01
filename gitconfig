@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mcamilabedoyaz1@gmail.com
+	name = maria bedoya
